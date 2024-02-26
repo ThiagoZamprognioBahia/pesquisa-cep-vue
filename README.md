@@ -1,4 +1,4 @@
-# PequisaCEP
+# PesquisaCEP
 
 Projeto tem como objetivo consumir API do ViaCEP e retornar de forma amigavel 
 
